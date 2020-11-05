@@ -1,0 +1,5 @@
+Antes de ejecutar el programa hay que colocar la base de datos colegio.mdb en la raiz del disco C
+
+Ejemplo
+
+C:\colegio.mdb
